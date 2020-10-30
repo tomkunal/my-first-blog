@@ -224,7 +224,7 @@ def load_template(request):
 #sheet1=wb.add_sheet('Sheet 1')
 #i=0
 #impo
-import pandas as pd 
+#import pandas as pd 
 #df=[]
 def timekunal(request):
     
@@ -235,8 +235,8 @@ def timekunal(request):
     #ls.append(feature_part)
     ls=[feature_part]
     #ls.append(feature_part)
-    df=pd.DataFrame([feature_part])
-    df.to_excel("output1.xlsx")
+    #df=pd.DataFrame([feature_part])
+    #df.to_excel("output1.xlsx")
     	
     print(feature_part)
     
@@ -249,10 +249,10 @@ def timeroll(request):
     #f=open('untitled1.txt','w')
     #f.write(feature_part)
     #ls.append(feature_part)
-    ls=[feature_part]
+    #ls=[feature_part]
     
-    df=pd.DataFrame([feature_part])
-    df.to_excel("output2.xlsx")
+    #df=pd.DataFrame([feature_part])
+    #df.to_excel("output2.xlsx")
     print(feature_part)
     
     return #JsonResponse("kunal", safe=False)
