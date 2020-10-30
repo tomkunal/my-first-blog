@@ -1,0 +1,190 @@
+Internal Server Error: /GetData/time
+Traceback (most recent call last):
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view GetData.views.timekunal didn't return an HttpResponse object. It returned None instead.
+"GET /GetData/time?featurePart=%3C7 HTTP/1.1" 500 64227
+Internal Server Error: /GetData/rolltime
+Traceback (most recent call last):
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view GetData.views.timeroll didn't return an HttpResponse object. It returned None instead.
+"GET /GetData/rolltime?featurePart=Thu+Oct+29+2020+23%3A28%3A27+GMT%2B0530+(India+Standard+Time) HTTP/1.1" 500 64590
+Internal Server Error: /GetData/time
+Traceback (most recent call last):
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view GetData.views.timekunal didn't return an HttpResponse object. It returned None instead.
+"GET /GetData/time?featurePart=%3D7 HTTP/1.1" 500 64224
+Internal Server Error: /GetData/rolltime
+Traceback (most recent call last):
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view GetData.views.timeroll didn't return an HttpResponse object. It returned None instead.
+"GET /GetData/rolltime?featurePart=Thu+Oct+29+2020+23%3A28%3A30+GMT%2B0530+(India+Standard+Time) HTTP/1.1" 500 64590
+Internal Server Error: /GetData/time
+Traceback (most recent call last):
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view GetData.views.timekunal didn't return an HttpResponse object. It returned None instead.
+"GET /GetData/time?featurePart=%3E7 HTTP/1.1" 500 64227
+Internal Server Error: /GetData/rolltime
+Traceback (most recent call last):
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view GetData.views.timeroll didn't return an HttpResponse object. It returned None instead.
+"GET /GetData/rolltime?featurePart=Thu+Oct+29+2020+23%3A28%3A32+GMT%2B0530+(India+Standard+Time) HTTP/1.1" 500 64590
+Internal Server Error: /GetData/time
+Traceback (most recent call last):
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view GetData.views.timekunal didn't return an HttpResponse object. It returned None instead.
+"GET /GetData/time?featurePart=%3C7 HTTP/1.1" 500 64227
+Internal Server Error: /GetData/time
+Traceback (most recent call last):
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view GetData.views.timekunal didn't return an HttpResponse object. It returned None instead.
+"GET /GetData/time?featurePart=%3D7 HTTP/1.1" 500 64224
+Internal Server Error: /GetData/time
+Traceback (most recent call last):
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view GetData.views.timekunal didn't return an HttpResponse object. It returned None instead.
+"GET /GetData/time?featurePart=%3E7 HTTP/1.1" 500 64227
+Internal Server Error: /GetData/rolltime
+Traceback (most recent call last):
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view GetData.views.timeroll didn't return an HttpResponse object. It returned None instead.
+"GET /GetData/rolltime?featurePart=Thu+Oct+29+2020+23%3A28%3A36+GMT%2B0530+(India+Standard+Time) HTTP/1.1" 500 64590
+Internal Server Error: /GetData/time
+Traceback (most recent call last):
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view GetData.views.timekunal didn't return an HttpResponse object. It returned None instead.
+"GET /GetData/time?featurePart=%3C7 HTTP/1.1" 500 64227
+Internal Server Error: /GetData/time
+Traceback (most recent call last):
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view GetData.views.timekunal didn't return an HttpResponse object. It returned None instead.
+"GET /GetData/time?featurePart=%3D7 HTTP/1.1" 500 64224
+Internal Server Error: /GetData/time
+Traceback (most recent call last):
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view GetData.views.timekunal didn't return an HttpResponse object. It returned None instead.
+"GET /GetData/time?featurePart=%3E7 HTTP/1.1" 500 64227
+Internal Server Error: /GetData/rolltime
+Traceback (most recent call last):
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view GetData.views.timeroll didn't return an HttpResponse object. It returned None instead.
+"GET /GetData/rolltime?featurePart=Thu+Oct+29+2020+23%3A31%3A56+GMT%2B0530+(India+Standard+Time) HTTP/1.1" 500 64590
+Internal Server Error: /GetData/rolltime
+Traceback (most recent call last):
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view GetData.views.timeroll didn't return an HttpResponse object. It returned None instead.
+"GET /GetData/rolltime?featurePart=Thu+Oct+29+2020+23%3A31%3A56+GMT%2B0530+(India+Standard+Time) HTTP/1.1" 500 64590
+Internal Server Error: /GetData/rolltime
+Traceback (most recent call last):
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view GetData.views.timeroll didn't return an HttpResponse object. It returned None instead.
+"GET /GetData/rolltime?featurePart=Thu+Oct+29+2020+23%3A31%3A57+GMT%2B0530+(India+Standard+Time) HTTP/1.1" 500 64590
+Internal Server Error: /GetData/rolltime
+Traceback (most recent call last):
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view GetData.views.timeroll didn't return an HttpResponse object. It returned None instead.
+"GET /GetData/rolltime?featurePart=Thu+Oct+29+2020+23%3A31%3A57+GMT%2B0530+(India+Standard+Time) HTTP/1.1" 500 64590
+Internal Server Error: /GetData/rolltime
+Traceback (most recent call last):
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view GetData.views.timeroll didn't return an HttpResponse object. It returned None instead.
+"GET /GetData/rolltime?featurePart=Thu+Oct+29+2020+23%3A32%3A00+GMT%2B0530+(India+Standard+Time) HTTP/1.1" 500 64590
+Internal Server Error: /GetData/rolltime
+Traceback (most recent call last):
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "/home/kunal/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view GetData.views.timeroll didn't return an HttpResponse object. It returned None instead.
+"GET /GetData/rolltime?featurePart=Thu+Oct+29+2020+23%3A32%3A03+GMT%2B0530+(India+Standard+Time) HTTP/1.1" 500 64590
