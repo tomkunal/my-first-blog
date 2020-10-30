@@ -240,7 +240,7 @@ def timekunal(request):
     	
     print(feature_part)
     
-    return #JsonResponse("kunal", safe=False)
+    return JsonResponse("kunal", safe=False)
 
 def timeroll(request):
     
@@ -255,7 +255,7 @@ def timeroll(request):
     #df.to_excel("output2.xlsx")
     print(feature_part)
     
-    return #JsonResponse("kunal", safe=False)
+    return JsonResponse("kunal", safe=False)
 
 #df.to_excel("output.xlsx") 
 
