@@ -63,7 +63,7 @@ LOGGING = {
 }
 INSTALLED_APPS = [
     'GetData.apps.GetdataConfig',
-    'GetData.Game.GetdataConfig',
+    #'GetData.Game.GetdataConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
