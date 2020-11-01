@@ -11,4 +11,4 @@ urlpatterns = [
     path('rolltime',views.timeroll),
     path('Game/',views.render_game),
      #http://127.0.0.1:8000/GetDataPage/test
-]#+ static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+]+ static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
